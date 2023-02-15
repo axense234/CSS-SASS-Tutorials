@@ -18,10 +18,12 @@ body {
   width: 40%;
   margin: 0 auto;
 }
-.main .main__paragraph1, .main .main__paragraph2 {
+.main .main__paragraph1,
+.main .main__paragraph2 {
   font-weight: 400;
 }
-.main .main__paragraph1:hover, .main .main__paragraph2:hover {
+.main .main__paragraph1:hover,
+.main .main__paragraph2:hover {
   color: pink;
 }
 @media (max-width: 800px) {
@@ -36,4 +38,4 @@ body {
 .light {
   background: white;
   color: black;
-}/*# sourceMappingURL=main.css.map */
+} /*# sourceMappingURL=main.css.map */
