@@ -1,0 +1,63 @@
+body {
+  background: blanchedalmond;
+}
+
+.title {
+  color: darkviolet;
+}
+
+.subtitle:hover {
+  /* hover effect */
+  color: darkmagenta;
+}
+
+#subtitle-2 {
+  color: indianred;
+}
+
+h3 {
+  color: indigo;
+}
+/*---------------------------------------------------------------------------------*/
+
+li:first-child {
+  color: green;
+}
+
+ul + a {
+  color: whitesmoke;
+}
+ul > li {
+  color: skyblue; /* only the li in the ul */
+}
+
+ul li {
+  color: darkorange; /* all li from ul,including the li in an ol*/
+}
+/*-----------------------------------------------------------------------------*/
+
+h2[class="subtitle"] {
+  color: darkblue;
+}
+
+img[src=""] {
+  font: 600;
+}
+
+img[src^="../img/"] {
+  border: 10px solid black; /* starts with is ^, ends with is $, it containing is **/
+}
+
+h2[class~="article-subtitle"] {
+  background: greenyellow;
+}
+
+h2[class|="article-subtitle"] {
+  background: greenyellow;
+}
+/*
+The CSS General Rule: ;
+selector {
+	property: value;
+}
+*/

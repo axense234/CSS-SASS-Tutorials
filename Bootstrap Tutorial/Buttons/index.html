@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      rel="stylesheet"
+      href="./node_modules/bootstrap/dist/css/bootstrap.css"
+    />
+    <title>Buttons</title>
+  </head>
+  <body>
+    <h1 class="text-center">Buttons</h1>
+    <div class="container">
+      <div class="row mt-5">
+        <div class="col mb-5">
+          <button type="button" class="btn btn-primary btn-lg">Primary</button>
+          <button type="button" class="btn btn-secondary">Secondary</button>
+          <button type="button" class="btn btn-success">Success</button>
+          <button type="button" class="btn btn-danger">Danger</button>
+          <button type="button" class="btn btn-warning disabled">
+            Warning
+          </button>
+          <button type="button" class="btn btn-info btn-lg">Info</button>
+          <button type="button" class="btn btn-light">Light</button>
+          <button type="button" class="btn btn-dark btn-sm">Dark</button>
+          <button type="button" class="btn btn-link">Link</button>
+        </div>
+        <div class="col mb-5">
+          <button type="button" class="btn btn-outline-primary btn-lg" disabled>
+            Primary
+          </button>
+          <button type="button" class="btn btn-outline-secondary">
+            Secondary
+          </button>
+          <button type="button" class="btn btn-outline-success btn-sm">
+            Success
+          </button>
+          <button type="button" class="btn btn-outline-danger btn-lg" disabled>
+            Danger
+          </button>
+          <button type="button" class="btn btn-outline-warning">Warning</button>
+          <button type="button" class="btn btn-outline-info">Info</button>
+          <button type="button" class="btn btn-light">Light</button>
+          <button type="button" class="btn btn-outline-dark">Dark</button>
+        </div>
+        <div class="col mb-5">
+          <button
+            type="button"
+            class="btn btn-primary"
+            data-bs-toggle="button"
+            autocomplete="off"
+          >
+            Toggle button
+          </button>
+          <button
+            type="button"
+            class="btn btn-primary active"
+            data-bs-toggle="button"
+            autocomplete="off"
+            aria-pressed="true"
+          >
+            Active toggle button
+          </button>
+          <button
+            type="button"
+            class="btn btn-primary"
+            disabled
+            data-bs-toggle="button"
+            autocomplete="off"
+          >
+            Disabled toggle button
+          </button>
+        </div>
+      </div>
+    </div>
+    <script src="./node_modules/bootstrap/dist/js/bootstrap.bundle.js"></script>
+  </body>
+</html>

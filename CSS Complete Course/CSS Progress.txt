@@ -1,0 +1,69 @@
+CSS Tutorial - Zero to Hero (Complete Course) ---https://www.youtube.com/watch?v=1Rs2ND1ryYc:
+-done Course Introduction
+-done Downloading Necessary Software
+-done Where to Find Project Files
+-done What is CSS
+-done Creating and Linking a CSS Stylesheet
+-done How to Test a Stylesheet
+-done What is a Selector
+-done Classes and ID's in HTML
+-done Specificity and When to use Selectors
+-done PseudoSelectors
+-done Advanced Selectors
+-done Attribute Selectors
+-done The CSS General Rule
+-done Types of Colors
+-done Coloring Text
+-done Background Colors
+-done Images/Urls in CSS
+-done Other Background Properties
+-done Opacity/Transparency
+-done Gradients
+-done Introduction to Types of Units
+-done Text Manipulation
+-done Font Size, Bolding and Style
+-done Font Families
+-done Including External Fonts with Google Fonts
+-done Using External Fonts
+-done The CSS Box Model
+-done Changing Content Size
+-done CSS Borders
+-done Margin and Padding
+-done Float and Display Types
+-done What is Flexbox?
+-done Creating a Flex Container
+-done Flex Direction and Wrap
+-done Content Alignment
+-done Flex Item Order
+-done Shrink, Grow, Basis
+-done The flex property
+-done Item Alignment
+-done Grid vs Flexbox
+-done Creating a Grid
+-done Template Columns and Rows
+-done Justify and Align Grid
+-done Row and Column Gaps
+-done Column and Row Lines
+-done Grid Area
+-done The Transition Property
+-done Transformation Functions
+-done Creating Animations with Keyframes
+-done Adding an Animation
+-done Animation Properties
+-done Website Transformation Challenge
+-done Website Tranformation Challenge-Solution
+
+Learn Bootstrap 5 and SASS by Building a Portfolio Website - Full Course(https://www.youtube.com/watch?v=iJKCj8uAHz8):
+-done Intro to Website Project
+-done SASS Setup
+-done Customizing Bootstrap
+-done File Structure
+-done The Navbar Section
+-done The Intro Section
+-done The Companies Section
+-done The Services Section
+-done The Testimonials Section
+-done The FAQ Section
+-done The Portfolio Section
+-done The Getting Started Section
+-done The Footer Section
